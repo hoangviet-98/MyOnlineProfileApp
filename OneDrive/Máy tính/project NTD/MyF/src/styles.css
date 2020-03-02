@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+#container{
+    margin: auto;
+    width: 300px;
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+h1{
+    color : #336699
+}
+h2{
+    color: #336699
+}
+
+ul{
+    list-style: none;
+    margin: auto;
+    padding: auto;
+}
+
+li{
+    border-bottom: dotted;
+    margin: auto;
+}
+
+img{
+    width: 50%;
+    margin: auto;
+}
